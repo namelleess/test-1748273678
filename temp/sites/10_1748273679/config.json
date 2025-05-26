@@ -1,0 +1,47 @@
+{
+    "en": {
+        "header": {
+            "logo": "http:\/\/159.223.4.88:8000\/api\/images\/download\/5",
+            "navigation": [
+                {
+                    "label": "Homee",
+                    "url": "\/"
+                },
+                {
+                    "label": "About",
+                    "url": "\/about"
+                },
+                {
+                    "label": "Contact",
+                    "url": "\/contact"
+                }
+            ]
+        },
+        "hero": {
+            "title": "Welcome to Our Website",
+            "subtitle": "We provide the best services for your needs",
+            "backgroundImage": "http:\/\/localhost:3000\/img.phg",
+            "cta": {
+                "text": "call me",
+                "url": "#contact",
+                "style": "primary"
+            }
+        },
+        "features": {
+            "sectionTitle": "Our Features",
+            "items": [
+                {
+                    "icon": "http:\/\/localhost:3000\/img.phg",
+                    "title": "Lightning Fast",
+                    "description": "Our solution is optimized for speed and performance."
+                },
+                {
+                    "icon": "http:\/\/localhost:3000\/img.phg",
+                    "title": "Secure",
+                    "description": "Your data is always protected with enterprise-grade security."
+                }
+            ]
+        },
+        "seoId": null
+    }
+}
